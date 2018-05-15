@@ -8,15 +8,8 @@ icon: bookmark
 * content
 {:toc}
 
-# Awesome Mac
-
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge) [![SegmentFault](https://jaywcjlove.github.io/sb/ico/segmentfault.svg)](https://segmentfault.com/g/1570000010622746) [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
-
- 这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，面向开发者和设计师。有这个想法是因为我最近发了一篇较为火爆的涨粉儿微信公众号文章《[工具武装的前端开发工程师](https://mp.weixin.qq.com/s?__biz=MzAwNzgxMjYzMA==&mid=2649129466&idx=1&sn=e50f0049b096cf28b7cf707a4b5adb33#rd)》，于是建了这么一个仓库，持续更新作为补充，搜集更多好用的软件工具。通过 Pull Request或者使劲搓它 [issues](https://github.com/jaywcjlove/awesome-mac/issues) 给我推荐优秀好用的Mac应用，很显然我是一个资深Mac用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。文档格式参照[awesome](https://github.com/sindresorhus/awesome)。
 
 **说明**
-
-[English](README.md) | [中文](README-zh.md)  
 
 ![Open-Source Software][OSS Icon] 表示 **开源软件** ，点击进入 **开源** 仓库；  
 ![Freeware][Freeware Icon] 表示 **免费** 使用，或者个人 **免费** ；  
@@ -834,34 +827,6 @@ icon: bookmark
 [star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg "3星推荐软件"
 [star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg "4星推荐软件"
 [star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg "5星推荐软件"
-
-
-## Contributors
-
-This project exists thanks to all the people who contribute.
-
-<a href="https://github.com/jaywcjlove/awesome-mac/graphs/contributors"><img src="https://opencollective.com/awesome-mac/contributors.svg?width=890" /></a>
-
-
-## Backers
-
-Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/awesome-mac#backer)
-
-<a href="https://opencollective.com/awesome-mac#backers" target="_blank"><img src="https://opencollective.com/awesome-mac/backers.svg?width=890"></a>
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [Become a sponsor](https://opencollective.com/awesome-mac#sponsor)
-
-<a href="https://opencollective.com/awesome-mac/sponsor/0/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/0/avatar.svg"></a>
-
-
-## License
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
 ## Comments

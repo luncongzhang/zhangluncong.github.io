@@ -16,8 +16,8 @@ icon: heart
 
 ## 联系我
 
-** GitHub： ** [https://github.com/metayx](https://github.com/metayx)
-** 邮箱： ** luncongzhang@gmail.com
+* **GitHub** [https://github.com/metayx](https://github.com/metayx)
+* **邮箱** luncongzhang@gmail.com
 
 
 ## 友情链接

@@ -829,6 +829,9 @@ icon: bookmark
 [star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg "5星推荐软件"
 
 
+[awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
+
 ## Comments
 
 {% include comments.html %}

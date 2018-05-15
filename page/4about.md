@@ -11,8 +11,8 @@ icon: heart
 ## 关于我
 
 
-滴滴发车了
-
+2015年毕业于南昌大学 信息工程学院
+目前就职于招联消费金融
 
 ## 联系我
 
@@ -21,5 +21,6 @@ icon: heart
 
 
 ## 友情链接
-[写记录](http://xiejilu.com/){:target="_blank"}  \| [命运的博客](http://457375608.github.io){:target="_blank"} \|  `您的位置`
+[阿里中间件](http://jm.taobao.org/)
+[美团点评](https://tech.meituan.com/)
 

@@ -18,6 +18,8 @@ jdk1.7中Arrays.sort主要核心用的双轴快排，是一种改进的快排。
 
 ![](https://ws1.sinaimg.cn/large/006tKfTcgy1frdkcwc48qj31860oetgv.jpg)
 
+<!--more-->
+
 **单轴快排代码：**
 
 ```

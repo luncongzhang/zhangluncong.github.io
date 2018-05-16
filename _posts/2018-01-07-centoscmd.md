@@ -58,6 +58,8 @@ netstat -ano|findstr 端口号
 ```
 taskkill /f /t /im 程序名
 ```
+<!--more-->
+
 # centos下端口占用
 
 1.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "217. 存在重复元素"
+title:  "217. 存在重复元素"
 categories: 算法
 tags: leetcode 数组
 ---
@@ -12,6 +12,8 @@ tags: leetcode 数组
 给定一个整数数组，判断是否存在重复元素。
 
 如果任何值在数组中出现至少两次，函数应该返回 true。如果每个元素都不相同，则返回 false。
+
+<!--more-->
 
 解：利用老朋友hashmap
 

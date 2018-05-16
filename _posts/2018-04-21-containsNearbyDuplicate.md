@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "219. 存在重复元素 II"
+title:  "219. 存在重复元素 II"
 categories: 算法
 tags: leetcode 数组
 ---
@@ -10,6 +10,8 @@ tags: leetcode 数组
 
 
 给定一个整数数组和一个整数 k，判断数组中是否存在两个不同的索引 i 和 j，使 nums [i] = nums [j]，并且 i 和 j 的绝对差值最大为 k。
+
+<!--more-->
 
 解：理解题目，马德理解错了题目，ac半天没ac出来，存在存在，只要存在就返回true！！
 

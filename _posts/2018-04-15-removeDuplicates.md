@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "26. 删除排序数组中的重复项"
+title:  "26. 删除排序数组中的重复项"
 categories: 算法
 tags: leetcode 数组
 ---
@@ -22,6 +22,7 @@ tags: leetcode 数组
 
 你不需要考虑数组中超出新长度后面的元素。
 ```
+<!--more-->
 
 示例 2:
 

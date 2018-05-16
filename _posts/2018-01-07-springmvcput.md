@@ -22,5 +22,7 @@ tags:  spring http mvc
         <url-pattern>/*</url-pattern>
     </filter-mapping>
 ```
+<!--more-->
+
 2. 前端界面表单添加参数：
 _method = "PUT"，并且以POST方法请求。后台controller中以PUT方法接收，即可获取表单中提交的所有数据。

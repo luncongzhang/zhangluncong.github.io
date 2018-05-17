@@ -207,7 +207,7 @@ protected void parseBeanDefinitions(Element root, BeanDefinitionParserDelegate d
 }
 ```
 
-解析和注册BeanDefinition到BeanFactory,本步骤中，通过parseBeanDefinitionElement将XML的元素解析为BeanDefinition，然后存在BeanDefinitionHolder中，然后再利用BeanDefinitionHolder将BeanDefinition注册，实质就是把BeanDefinition的实例put进BeanFactory中，和后面将详细的介绍解析和注册过程。
+解析和注册BeanDefinition到BeanFactory,本步骤中，通过parseBeanDefinitionElement将XML的元素解析为BeanDefinition，然后存在BeanDefinitionHolder中，然后再利用BeanDefinitionHolder将BeanDefinition注册，实质就是把BeanDefinition的实例put进beanDefinitionMap中，和后面将详细的介绍解析和注册过程。
 
 ```
 protected void processBeanDefinition(Element ele, BeanDefinitionParserDelegate delegate) {

@@ -10,7 +10,7 @@ title: 张伦聪的技术博客
 small-title: 张伦聪的技术博客
 brief-intro: Research And Development Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zhangluncong.com" # the base hostname & protocol for your site
+url: "https://51itech.com" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 

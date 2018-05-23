@@ -22,7 +22,7 @@ tags:  布隆过滤器 缓存穿透 海量数据去重
 布隆过滤器就是引入了k(k>1)个相互独立的哈希函数，保证在给定的空间、误判率下，完成元素判重的过程。下图中是k=3时的布隆过滤器。
 
 
-![](https://img-blog.csdn.net/20170227151353505?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvemR4aXEwMDA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![](https://ws4.sinaimg.cn/large/006tKfTcgy1frlm22iofej315k0fygmk.jpg)
 
 
 x,y,z经由哈希函数映射将各自在Bitmap中的3个位置置为1，当w出现时，仅当3个标志位都为1时，才表示w在集合中。图中所示的情况，布隆过滤器将判定w不在集合中。

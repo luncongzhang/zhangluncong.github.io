@@ -2,7 +2,7 @@
 layout: post
 title:  "读《spring源码深度解析》后感"
 categories: 源码
-tags:  spring
+tags:  spring 书籍
 ---
 
 * content

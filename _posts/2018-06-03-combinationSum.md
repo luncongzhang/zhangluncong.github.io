@@ -2,7 +2,7 @@
 layout: post
 title:  "39. 组合总和"
 categories: 算法
-tags: 数组
+tags: leetcode 数组
 ---
 
 * content

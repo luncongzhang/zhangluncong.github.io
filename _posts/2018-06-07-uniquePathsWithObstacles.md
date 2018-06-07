@@ -41,7 +41,7 @@ tags: leetcode 数组
 2. 向下 -> 向下 -> 向右 -> 向右
 ```
 
-解：跟前面一题差不多，主要是注意初始化时，原始矩阵obstacleGrid只要已经出现了一个1，后面的路径矩阵ways就都为0，无路可走了。
+解：跟前面一题差不多，主要是注意初始化时，原始矩阵obstacleGrid只要已经出现了一个1，后面的路径矩阵ways就都为0，无路可走了，状态转移的时候判断一下obstacleGrid是否为1，为1的话直接设ways为0。
 
 ```
 public int uniquePathsWithObstacles(int[][] obstacleGrid) {

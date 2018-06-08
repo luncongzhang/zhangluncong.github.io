@@ -30,7 +30,9 @@ tags: leetcode 数组
 解：依然是使用动态规划。
 
 定义状态：dp[i][j]
+
 初始化：...
+
 状态转移(递推公式)：dp[i][j] = Math.min(dp[i - 1][j], dp[i][j - 1]) + grid[i][j];
 
 ```

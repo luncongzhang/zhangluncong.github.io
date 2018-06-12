@@ -8,7 +8,7 @@
 # Site settings
 title: 张伦聪的技术博客
 small-title: 张伦聪的技术博客
-brief-intro: Research And Development Engineer
+brief-intro: Research And Development
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zhangluncong.com" # the base hostname & protocol for your site
 

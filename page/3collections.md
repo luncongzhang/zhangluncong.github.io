@@ -818,19 +818,19 @@ icon: bookmark
 **[⬆ 返回顶部](#目录)**
 
 
-[OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "开源软件"
-[Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "免费软件"
-[hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg "热门软件"
-[tuijian Icon]: https://jaywcjlove.github.io/sb/ico/min-tuijian.svg "推荐软件"
-[bibei Icon]: https://jaywcjlove.github.io/sb/ico/min-bibei.svg "装机必备软件"
-[red Icon]: https://jaywcjlove.github.io/sb/star/red.svg "1星推荐软件"
-[app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "苹果应用商店软件"
-[star0 Icon]: https://jaywcjlove.github.io/sb/star/red0.svg "0星推荐软件"
-[star1 Icon]: https://jaywcjlove.github.io/sb/star/red1.svg "1星推荐软件"
-[star2 Icon]: https://jaywcjlove.github.io/sb/star/red2.svg "2星推荐软件"
-[star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg "3星推荐软件"
-[star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg "4星推荐软件"
-[star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg "5星推荐软件"
+[OSS Icon]: https://wangchujiang.com/sb/ico/min-oss.svg "开源软件"
+[Freeware Icon]: https://wangchujiang.com/sb/ico/min-free.svg "免费软件"
+[hot Icon]: https://wangchujiang.com/sb/ico/min-hot.svg "热门软件"
+[tuijian Icon]: https://wangchujiang.com/sb/ico/min-tuijian.svg "推荐软件"
+[bibei Icon]: https://wangchujiang.com/sb/ico/min-bibei.svg "装机必备软件"
+[red Icon]: https://wangchujiang.com/sb/star/red.svg "1星推荐软件"
+[app-store Icon]: https://wangchujiang.com/sb/ico/min-app-store.svg "苹果应用商店软件"
+[star0 Icon]: https://wangchujiang.com/sb/star/red0.svg "0星推荐软件"
+[star1 Icon]: https://wangchujiang.com/sb/star/red1.svg "1星推荐软件"
+[star2 Icon]: https://wangchujiang.com/sb/star/red2.svg "2星推荐软件"
+[star3 Icon]: https://wangchujiang.com/sb/star/red3.svg "3星推荐软件"
+[star4 Icon]: https://wangchujiang.com/sb/star/red4.svg "4星推荐软件"
+[star5 Icon]: https://wangchujiang.com/sb/star/red5.svg "5星推荐软件"
 
 
 ### 来源
@@ -839,5 +839,3 @@ icon: bookmark
 
 
 ## Comments
-
-{% include comments.html %}

@@ -2,7 +2,7 @@
 layout: post
 title:  "242. 有效的字母异位词"
 categories: 算法
-tags: leetcode 数组
+tags: leetcode 哈希表
 ---
 
 * content

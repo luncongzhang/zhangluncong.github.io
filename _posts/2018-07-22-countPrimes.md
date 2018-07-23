@@ -2,7 +2,7 @@
 layout: post
 title:  "204. 计数质数"
 categories: 算法
-tags: leetcode 数组
+tags: leetcode 哈希表
 ---
 
 * content

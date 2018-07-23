@@ -2,7 +2,7 @@
 layout: post
 title:  "290. 单词模式"
 categories: 算法
-tags: leetcode 数组
+tags: leetcode 哈希表
 ---
 
 * content

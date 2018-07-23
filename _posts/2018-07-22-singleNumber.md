@@ -2,7 +2,7 @@
 layout: post
 title:  "136. 只出现一次的数字"
 categories: 算法
-tags: leetcode 数组
+tags: leetcode 哈希表
 ---
 
 * content

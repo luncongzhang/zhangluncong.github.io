@@ -66,7 +66,7 @@ tags: leetcode 哈希表
 * 给定数独序列只包含数字 1-9 和字符 '.' 。
 * 给定数独永远是 9x9 形式的。
 
-解： 掌握核心科技。
+解1： 掌握核心科技,不过核心科技太难掌握。下面公式不知道哪个大神推导出来的，非常难。看解2。
 
 ```
 x = (i / 3) * 3 + (k % 9) / 3;
@@ -105,6 +105,50 @@ public boolean isValidSudoku(char[][] board) {
                     return false;
                 }
                 k += 1;
+            }
+        }
+        return true;
+    }
+```
+
+解2：牺牲了一点时间，比较容易理解。
+
+```
+public boolean isValidSudoku(char[][] board) {
+        Set<Character> rowSet = new HashSet<>();
+        Set<Character> lineSet = new HashSet<>();
+        Set<Character> sudokuSet = new HashSet<>();
+
+        int m = board.length;
+        int n = board[0].length;
+        //行列
+        for (int i = 0; i < m; i++) {
+            rowSet.clear();
+            lineSet.clear();
+            for (int j = 0; j < n; j++) {
+                //行
+                if (board[i][j] != '.' && !rowSet.add(board[i][j])) {
+                    return false;
+                }
+                //列
+                if (board[j][i] != '.' && !lineSet.add(board[j][i])) {
+                    return false;
+                }
+            }
+        }
+        //小格子
+        for (int i = 0; i < m - 2; i = i + 3) {
+            for (int j = 0; j < n - 2; j = j + 3) {
+                //外面两个循环确定了小格子左上角第一个元素
+                sudokuSet.clear();
+                for (int a = i; a < i + 3; a++) {
+                    for (int b = j; b < j + 3; b++) {
+                        if (board[a][b] != '.' && !sudokuSet.add(board[a][b])) {
+                            return false;
+                        }
+                    }
+
+                }
             }
         }
         return true;

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "94. 二叉树的中序遍历"
-categories: java
+categories: 算法
 tags: leetcode 哈希表
 ---
 

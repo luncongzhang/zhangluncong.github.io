@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "49. 字母异位词分组"
-categories: java
+categories: 算法
 tags: leetcode 哈希表
 ---
 

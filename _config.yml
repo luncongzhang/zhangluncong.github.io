@@ -54,7 +54,7 @@ kramdown:
 
 # url
 category_dir: category
-tag_dir: tag/
+tag_dir: tag
 
 # excerpt
 excerpt_separator: <!--more-->

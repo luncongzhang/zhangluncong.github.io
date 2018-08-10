@@ -47,7 +47,12 @@ layout: default
         <div class="pagination">
           {% if paginator.previous_page %}
             <a href="/" class="previous"><i class="fa fa-angle-double-left"></i></a>
-            <a href="{{ paginator.previous_page_path }}" class="previous"><i class="fa fa-angle-left"></i></a>
+            {% if paginator.previous_page_path == '/' %}
+              <a href="/" class="previous"><i class="fa fa-angle-left"></i></a>
+            {% else %}
+              <a href="{{ paginator.previous_page_path }}" class="previous"><i class="fa fa-angle-left"></i></a>
+            {% endif %}
+      
           {% else %}
             <span class="previous disable"><i class="fa fa-angle-double-left"></i></span>
             <span class="previous disable"><i class="fa fa-angle-left"></i></span>

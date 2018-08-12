@@ -22,7 +22,7 @@ tags: leetcode 链表
 输出: 1->4->3->2->5->NULL
 ```
 
-解：
+解：注意对象间的引用，改一个链表中节点的next有可能影响其他也引用了这个对象的链表，具体看代码里面注释
 
 反转部分可参考
 [206. 反转链表](https://zhangluncong.com/2018/08/11/reverseList/)
@@ -64,7 +64,13 @@ class Solution {
             cur = tmp;
         }
 
-        //粘起来除反转部分的后半部分
+        //粘起来除反转部分的后半部分，
+        // 此时pre.next.next节点和此时newHead最后一个节点为同一个对象hashcode相等，
+        // 所以将cur赋值过去相当于newHead也同时得到了，
+        //例如输入: 1->2->3->4->5->NULL, m = 2, n = 4
+        //输出: 1->4->3->2->5->NULL
+        //此时pre为1->2,cur为5，newHead为4->3->2
+        //pre.next.next = cur;执行完后：pre为1->2->5,newHead为4->3->2->5
         pre.next.next = cur;
         //粘起新反转部分
         pre.next = newHead;

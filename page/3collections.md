@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 收藏
-permalink: /collection
+permalink: /collection/
 icon: bookmark
 ---
 

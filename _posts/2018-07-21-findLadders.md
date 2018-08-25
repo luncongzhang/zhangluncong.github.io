@@ -50,7 +50,7 @@ wordList = ["hot","dot","dog","lot","log"]
 解释: endWord "cog" 不在字典中，所以不存在符合要求的转换序列。
 ```
 
-解：难度max，首先看懂dfs和bfs吧。
+解：未AC,难度max，首先看懂dfs和bfs吧。...
 
 ```
 public List<List<String>> findLadders(String start, String end, List<String> wordList) {

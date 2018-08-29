@@ -2,7 +2,7 @@
 layout: post
 title:  "125. 验证回文串"
 categories: 算法
-tags: leetcode 双指针
+tags: leetcode 字符串
 ---
 
 * content

@@ -76,7 +76,7 @@ word2 = " " + word2;//此时word2=" ros"
   dp[i][j]=dp[i-1][j-1]
   ```
   
-  当word1.charAt(i) != word2.charAt(j)两个字符相等时，有三种情况
+  当word1.charAt(i) != word2.charAt(j)两个字符不相等时，有三种情况
   
   ```
   将word1的0~i个字符转为word2的0~（j-1）个字符，最后插入word2[j]字符

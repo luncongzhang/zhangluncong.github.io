@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "173. 二叉搜索树迭代器"
+title:  "144. 二叉树的前序遍历"
 categories: 算法
-tags: leetcode 栈 树 设计
+tags: leetcode 栈 树
 ---
 
 * content
@@ -10,70 +10,57 @@ tags: leetcode 栈 树 设计
 
 <!--more-->
 
-实现一个二叉搜索树迭代器。你将使用二叉搜索树的根节点初始化迭代器。
+给定一个二叉树，返回它的 前序 遍历。
 
-调用 next() 将返回二叉搜索树中的下一个最小的数。
+ 示例:
 
-注意: next() 和hasNext() 操作的时间复杂度是O(1)，并使用 O(h) 内存，其中 h 是树的高度。
+```
+输入: [1,null,2,3]  
+   1
+    \
+     2
+    /
+   3 
 
-解：类似于中序遍历的变种，先把最左边的节点全部加入栈，
+输出: [1,2,3]
+```
+
+进阶: 递归算法很简单，你可以通过迭代算法完成吗？
+
+解：
 
 ```
 /**
- * Definition for binary tree
+ * Definition for a binary tree node.
  * public class TreeNode {
- * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode(int x) { val = x; }
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
  * }
  */
-
-public class BSTIterator {
-    Stack<TreeNode> st = new Stack<TreeNode>();
-
-
-    public BSTIterator(TreeNode root) {
-        while (root != null) {
-            st.push(root);
-            root = root.left;
-        }
-    }
-
-    /**
-     * @return whether we have a next smallest number
-     */
-    public boolean hasNext() {
-        if (!st.isEmpty()) {
-            return true;
-        } else {
-            return false;
-        }
-    }
-
-    /**
-     * @return the next smallest number
-     */
-    public int next() {
-        TreeNode curr = st.pop();
-        int val = curr.val;
-        if (curr.right != null) {
-            curr = curr.right;
-            st.push(curr);
-            // Push the left child of curr.right into stack
-            while (curr.left != null) {
-                st.push(curr.left);
-                curr = curr.left;
+import javafx.util.Pair;
+class Solution {
+    public List<Integer> preorderTraversal(TreeNode root) {
+        List<Integer> res = new ArrayList<>();
+        Stack<Pair<TreeNode, Boolean>> stack = new Stack<>();
+        stack.push(new Pair<>(root, false));
+        while (!stack.isEmpty()) {
+            TreeNode node = stack.peek().getKey();
+            boolean visited = stack.peek().getValue();
+            stack.pop();
+            if (node == null) {
+                continue;
+            }
+            if (visited) {
+                res.add(node.val);
+            } else {
+                stack.push(new Pair<>(node.right, false));
+                stack.push(new Pair<>(node.left, false));
+                stack.push(new Pair<>(node, true));
             }
         }
-        return val;
+        return res;
     }
 }
-
-/**
- * Your BSTIterator will be called like this:
- * BSTIterator i = new BSTIterator(root);
- * while (i.hasNext()) v[f()] = i.next();
- */
 ```
-

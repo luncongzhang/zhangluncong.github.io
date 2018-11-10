@@ -11,7 +11,7 @@ tags:  spring 书籍
 
 
 ## spring整体架构
-![](https://img-blog.csdn.net/20160705212029636?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![](https://ws4.sinaimg.cn/large/006tNbRwgy1fx33602uvbj30oi0m2q3i.jpg)
 
 1.Core Container(核心容器)包含有Core、Beans、Context和Expression Language模块 
 Core和Beans模块是框架的基础部分，提供IoC(转控制)和依赖注入特性。这里的基础概念是BeanFactory，它提供对Factory模式的经典实现来消除对程序性单例模式的需要，并真正地允许你从程序逻辑中分离出依赖关系和配置。
@@ -73,11 +73,11 @@ public void test() {
 
 整体流程：
 
-![](https://cloud.githubusercontent.com/assets/1736354/7897341/032179be-070b-11e5-9ecf-d7befc804e9d.png)
+![](https://ws1.sinaimg.cn/large/006tNbRwgy1fx337jw85gj30x4042mx5.jpg)
 
 **读取步骤**
 
-![](https://cloud.githubusercontent.com/assets/1736354/7896285/8a488060-06e6-11e5-9ad9-4ddd3375984f.png)
+![](https://ws3.sinaimg.cn/large/006tNbRwgy1fx336f18maj30q60byq6n.jpg)
 
 保存配置位置，并开始刷新。在调用ClassPathXmlApplicationContext后，先会将配置位置信息保存到configLocations，供后面解析使用，之后，会调用AbstractApplicationContext的refresh方法进行刷新：
 
@@ -233,7 +233,7 @@ protected void processBeanDefinition(Element ele, BeanDefinitionParserDelegate d
 
 **解析步骤**
 
-![](https://cloud.githubusercontent.com/assets/1736354/7896302/eae02bc6-06e6-11e5-941a-d1f59e3b363f.png)
+![](https://ws4.sinaimg.cn/large/006tNbRwgy1fx33815nyij30oe060jsp.jpg)
 
 处理每个Bean的元素
 

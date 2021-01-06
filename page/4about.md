@@ -11,7 +11,7 @@ icon: heart
 ## 关于我
 
 本科：南昌大学 工学/管理学<br>
-硕士：BPSU Economics<br>
+硕士：海外大学 Economics<br>
 目前就职于腾讯
 
 ## 联系我

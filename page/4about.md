@@ -12,7 +12,7 @@ icon: heart
 
 本科：南昌大学 计算机科学与技术<br>
 本科：南昌大学 工商管理<br>
-硕士：海外大学 Economics<br>
+硕士：PSU Economics<br>
 目前就职于腾讯
 
 ## 联系我

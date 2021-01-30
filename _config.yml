@@ -39,7 +39,7 @@ description_footer: 不积跬步，无以至千里；不积小流，无以成江
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: c97e3291ae589db708ae223331635554
+baidu_tongji_id: bdfa9857cf2b79045d36c687fdebed87
 #google_analytics_id: UA-103416878-1 # google 分析追踪id
 
 # Build settings

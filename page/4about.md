@@ -9,9 +9,10 @@ icon: heart
 {:toc}
 
 ## 关于我
-硕士：PSU Economics<br>
 本科：南昌大学 计算机科学与技术<br>
 本科：南昌大学 工商管理<br>
+硕士：英国华威大学 MSc<br>
+硕士：PSU Economics<br>
 目前就职于腾讯金融科技
 
 ## 联系我

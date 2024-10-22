@@ -20,7 +20,7 @@ icon: heart
 
 ## 联系我
 
-* **GitHub:** [https://github.com/metayx](https://github.com/metayx)
+* **GitHub:** [https://github.com/zhangluncong](https://github.com/zhangluncong)
 * **邮箱:** luncongzhang@gmail.com
 
 ## 友情链接

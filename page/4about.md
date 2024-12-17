@@ -22,7 +22,7 @@ icon: heart
 
 * **邮箱:** luncongzhang@gmail.com
 
-## 联系我
+## 友情链接
 * **HK patent search:** [https://esearch.ipd.gov.hk/nis-pos-view/#/pt/quicksearch?lang=en](https://esearch.ipd.gov.hk/nis-pos-view/#/pt/quicksearch?lang=en)
 * **google patents:** [https://patents.google.com/?inventor=%E5%BC%A0%E4%BC%A6%E8%81%AA](https://patents.google.com/?inventor=%E5%BC%A0%E4%BC%A6%E8%81%AA)
 * **腾讯云开发者公众号-推荐文章:** [https://mp.weixin.qq.com/s/DCngASQ7gsKpFA2JHCH7Sg](https://mp.weixin.qq.com/s/DCngASQ7gsKpFA2JHCH7Sg)

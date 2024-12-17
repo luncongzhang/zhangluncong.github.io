@@ -30,5 +30,5 @@ icon: heart
 * 
 * **腾讯技术工程公众号-大牛书单​:** https://mp.weixin.qq.com/s/_ydiioGqXyxruAWG72myGw
 
-* **腾讯云开发者社区​:** [https://cloud.tencent.com/developer/user/6147811/activities](https://cloud.tencent.com/developer/column/97251)
+* **腾讯云开发者社区​:** https://cloud.tencent.com/developer/column/97251
 

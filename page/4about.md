@@ -10,7 +10,7 @@ icon: heart
 
 ## 关于我
 
-就职于腾讯
+就职于腾讯财付通
 
 |  学校   | 学位  | 专业  |
 |  ----  | ----  | ----   |
@@ -24,5 +24,5 @@ icon: heart
 
 ## 友情链接
 
-![](https://i.loli.net/2018/07/23/5b558352b739a.jpg)
+![google patents](https://patents.google.com/?inventor=%E5%BC%A0%E4%BC%A6%E8%81%AA)
 

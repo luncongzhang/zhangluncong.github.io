@@ -23,8 +23,8 @@ icon: heart
 * **邮箱:** luncongzhang@gmail.com
 * **google patents:** https://patents.google.com/?inventor=%E5%BC%A0%E4%BC%A6%E8%81%AA
 * **腾讯技术工程知乎-直播回放​:** https://www.zhihu.com/zvideo/1426252136347295744
-* **腾讯技术工程公众号-推荐文章1​:** https://mp.weixin.qq.com/s/k8agEub4qmhm3kX_TpETrA
-* **腾讯技术工程公众号-推荐文章​2:** https://cloud.tencent.com/developer/column/97251
+* **腾讯技术工程公众号-推荐文章​:** https://mp.weixin.qq.com/s/k8agEub4qmhm3kX_TpETrA
+* **腾讯云开发者公众号-推荐文章:** https://mp.weixin.qq.com/s/DCngASQ7gsKpFA2JHCH7Sg
 * **腾讯技术工程公众号-大牛书单​:** https://mp.weixin.qq.com/s/_ydiioGqXyxruAWG72myGw
 * **腾讯云开发者社区-专栏​:** https://cloud.tencent.com/developer/column/97251
   

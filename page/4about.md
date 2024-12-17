@@ -22,5 +22,5 @@ icon: heart
 
 * **邮箱:** luncongzhang@gmail.com
   
-[google patents](https://patents.google.com/?inventor=%E5%BC%A0%E4%BC%A6%E8%81%AA)
+* **邮箱:** [google patents](https://patents.google.com/?inventor=%E5%BC%A0%E4%BC%A6%E8%81%AA)
 

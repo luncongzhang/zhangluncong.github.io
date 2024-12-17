@@ -23,13 +23,14 @@ icon: heart
 * **邮箱:** luncongzhang@gmail.com
 
 ## 友情链接
+
 * **HK patent search:** [https://esearch.ipd.gov.hk/nis-pos-view/#/pt/quicksearch?lang=en](https://esearch.ipd.gov.hk/nis-pos-view/#/pt/quicksearch?lang=en)
 * **google patents:** [https://patents.google.com/?inventor=%E5%BC%A0%E4%BC%A6%E8%81%AA](https://patents.google.com/?inventor=%E5%BC%A0%E4%BC%A6%E8%81%AA)
 * **腾讯云开发者公众号-推荐文章:** [https://mp.weixin.qq.com/s/DCngASQ7gsKpFA2JHCH7Sg](https://mp.weixin.qq.com/s/DCngASQ7gsKpFA2JHCH7Sg)
-* **腾讯技术工程知乎-直播回放​:** [https://www.zhihu.com/zvideo/1426252136347295744](https://www.zhihu.com/zvideo/1426252136347295744)
 * **腾讯技术工程公众号-推荐文章​:** [https://mp.weixin.qq.com/s/k8agEub4qmhm3kX_TpETrA](https://mp.weixin.qq.com/s/k8agEub4qmhm3kX_TpETrA)
 * **腾讯技术工程公众号-大牛书单​:** [https://mp.weixin.qq.com/s/_ydiioGqXyxruAWG72myGw](https://mp.weixin.qq.com/s/_ydiioGqXyxruAWG72myGw)
 * **腾讯云开发者社区-专栏​:** [https://cloud.tencent.com/developer/column/97251](https://cloud.tencent.com/developer/column/97251)
+* **腾讯技术工程知乎-直播回放​:** [https://www.zhihu.com/zvideo/1426252136347295744](https://www.zhihu.com/zvideo/1426252136347295744)
 
   
 

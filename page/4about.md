@@ -25,5 +25,6 @@ icon: heart
 * **google patents:** https://patents.google.com/?inventor=%E5%BC%A0%E4%BC%A6%E8%81%AA
 
 * **腾讯技术工程知乎-直播回放​:** https://www.zhihu.com/zvideo/1426252136347295744
+* **腾讯技术工程公众号-文章​:** https://mp.weixin.qq.com/s/k8agEub4qmhm3kX_TpETrA
 * **腾讯技术工程公众号-大牛书单​:** https://mp.weixin.qq.com/s/_ydiioGqXyxruAWG72myGw
 
